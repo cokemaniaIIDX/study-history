@@ -9,3 +9,5 @@
 - 21/09/05 : Nodejs インストール
 - 21/09/07 : create react app までやってみる
 - 21/09/08 : jsx開始
+- 21/09/09 : bootstrap基本
+- 21/09/10 : bootstrap完了
