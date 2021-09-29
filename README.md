@@ -30,3 +30,4 @@
 ## AWS
 - 21/09/27 : CloudFormation インポート
 - 21/09/28 : CloudFormation EC2作成
+- 21/09/29 : CloudFormation EC2作成 改良
