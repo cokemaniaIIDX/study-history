@@ -22,6 +22,7 @@
 - 21/10/25 : ML インクルーシブML
 - 21/10/26 : ML JupyterNotebookの使い方とかまとめ
 - 21/10/28 : FlaskApp の Datastore 連携
+- 21/10/29 : FlaskApp の Storage 連携
 
 ## その他
 - 21/10/01 : VSCodeの拡張機能
