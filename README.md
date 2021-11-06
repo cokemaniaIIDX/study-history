@@ -6,5 +6,7 @@
 ## Next.js (React)
 - 21/11/02 : Next.js 開始
 - 21/11/04 : Next.js 複数ページ,ヘッダフッタ,画像
+- 21/11/05 : Next.js fetch
+- 21/11/06 : Next.js swr
 
 ## その他
