@@ -9,5 +9,6 @@
 - 21/11/05 : Next.js fetch
 - 21/11/06 : Next.js swr
 - 21/11/08 : Next.js APIの仕組み
+- 21/11/12 : Next.js クエリをきれいにする
 
 ## その他
