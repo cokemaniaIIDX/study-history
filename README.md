@@ -2,6 +2,7 @@
 
 ## GCP
 - 21/11/01 : Kubernetesで稼働させる Quiz App
+- 12/11/15 : Identity-Aware Proxy使い方
 
 ## Next.js (React)
 - 21/11/02 : Next.js 開始
