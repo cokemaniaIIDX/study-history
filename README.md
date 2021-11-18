@@ -4,6 +4,7 @@
 - 21/11/01 : Kubernetesで稼働させる Quiz App
 - 21/11/15 : Identity-Aware Proxy使い方
 - 21/11/16 : VPC アクセス制御 Armor
+- 21/11/18 : GKEのデプロイ管理
 
 ## Next.js (React)
 - 21/11/02 : Next.js 開始
