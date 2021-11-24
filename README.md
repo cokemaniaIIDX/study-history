@@ -8,6 +8,7 @@
 - 21/11/19 : GKE永続ディスクの活用1
 - 21/11/21 : 永続ディスク2
 - 21/11/22 : GKENginxIngress
+- 21/11/24 : GKEにVisionAPIアプリのデプロイ
 
 ## Next.js (React)
 - 21/11/02 : Next.js 開始
