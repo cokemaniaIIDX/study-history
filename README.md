@@ -10,6 +10,7 @@
 - 21/11/22 : GKENginxIngress
 - 21/11/24 : GKEにVisionAPIアプリのデプロイ
 - 21/11/28 : GKE 残り全部やった
+- 21/11/29 : Kubernetes 復習
 
 ## Next.js (React)
 - 21/11/02 : Next.js 開始
