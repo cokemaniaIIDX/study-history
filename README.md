@@ -5,3 +5,6 @@
 
 ## AWS
 - 22/01/24 : WAF CRS
+
+## Other
+- 22/01/25 : Terraform output
